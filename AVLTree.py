@@ -1,9 +1,3 @@
-# username - efratzolty
-# id1      - 206361164
-# name1    - Efrat Zolty
-# id2      - 318900024
-# name2    - Shir Ripstein
-
 
 """A class represnting a node in an AVL tree"""
 
